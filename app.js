@@ -1,2 +1,2 @@
-alert("hello, earth!");
+alert("hello, earth! You look rather blue!");
 
